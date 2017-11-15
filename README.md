@@ -1,8 +1,8 @@
-# Humanoid Robot
+# Turtle Bot
 
 # Group Members
 Matt Wingham - maw38
 Jac Jones - jaj58
 
 # Project Supervisor
-To be arranged
+Dr Keiran Burrows
