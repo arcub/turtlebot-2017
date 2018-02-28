@@ -3,8 +3,8 @@
 
 map script files (catkin_ws/src/turtlebot_startup/launch):
 roslaunch turtlebot_startup map_create.launch
-roslaunch turtlebot_startup map_save.launch
-roslaunch turtlebot_startup map_navigate.launch
+roslaunch turtlebot_startup map_save.launch map_name:='filename'
+roslaunch turtlebot_startup map_navigate.launch map_name:='filename'
 
 
 
